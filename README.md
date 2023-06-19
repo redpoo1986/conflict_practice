@@ -1,1 +1,1 @@
-main hoge hoge
+git hoge hoge
